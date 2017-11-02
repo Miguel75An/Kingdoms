@@ -5,7 +5,7 @@
 - Justin Chin
   - Designing the character, King
 - Miguel Dominguez
-  - tbd
+  - Designing scenarios
 - Sunny Mei
   - Event Logic 
 - Ichwan Palongengi

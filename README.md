@@ -3,13 +3,13 @@
 ## Answer:
 - Characters
 
-ABC produces the following tree:
+Royal Family:
 
-			 (p + p + p)
-			   /	  \
-			  A       (p + p)
-			         /       \
-			        B         C
+	- King
+  	- Queen
+  	- Prince
+  	- Princess
+			
 
 But we can also obtain this:
 

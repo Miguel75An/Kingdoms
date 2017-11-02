@@ -1,13 +1,31 @@
 # Kingdoms
-A game, in development
 
-- Characters:
-    King
-    Queen
-    Prince
-    Princess
+## Answer:
+- Characters
+
+ABC produces the following tree:
+
+			 (p + p + p)
+			   /	  \
+			  A       (p + p)
+			         /       \
+			        B         C
+
+But we can also obtain this:
+
+			(p + p + p)
+			   /	  \
+			  B      (p + p)
+			     	/       \
+			       A         C
+
+Characters:
+  - King
+  - Queen
+  - Prince
+  - Princess
   
-  - Commander
+        Commander
   - Knight
   - Archer
   - Lazy Guard
@@ -18,8 +36,15 @@ A game, in development
   - Clown
   - Elf
   
+  - Beggar
+  - Peasant
+  - Thief
+  - Smuggler
+  - Always Drunk Person
+  
   - Dog
   
-Backgrounds:
+- Backgrounds:
+    
   
   

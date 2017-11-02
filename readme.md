@@ -5,11 +5,11 @@
 - Justin Chin
   - Designing the character, King
 - Miguel Dominguez
-  -
+  - tbd
 - Sunny Mei
-  -
+  - Event Logic 
 - Ichwan Palongengi
-  -
+  - tbd
 
 ## Tools
 - Graphics

@@ -1,11 +1,11 @@
 # Kingdoms
 A game, in development
 
-Characters:
-  - King
-  - Queen
-  - Prince
-  - Princess
+- Characters:
+  King
+  Queen
+  Prince
+  Princess
   
   - Commander
   - Knight

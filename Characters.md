@@ -37,6 +37,7 @@ Castle:
 	- Maid
 	- Butler
 	- Lover
+	- Chef
 	
 Poor District:
 

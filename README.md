@@ -2,10 +2,10 @@
 A game, in development
 
 - Characters:
-  King
-  Queen
-  Prince
-  Princess
+    King
+    Queen
+    Prince
+    Princess
   
   - Commander
   - Knight

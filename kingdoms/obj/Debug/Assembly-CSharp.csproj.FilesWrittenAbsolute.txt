@@ -1,0 +1,17 @@
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/UnityEngine.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/UnityEditor.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Chin/Desktop/kingdoms/kingdoms/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/obj/Debug/Assembly-CSharp.dll
+/Users/Chin/Desktop/kingdoms/kingdoms/obj/Debug/Assembly-CSharp.dll.mdb

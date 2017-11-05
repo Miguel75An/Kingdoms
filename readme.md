@@ -17,6 +17,13 @@
 - Graphics
   - [Inkscape](https://inkscape.org/en/)
   - Monochromatic Color Scheme
+  - Colors
+    - #F5F3E7
+    - #FCE233
+    - #E8CF2D
+    - #ACA054
+    - #3E391B
+
 - Game Engine
   - [Unity](https://unity3d.com/)
 

@@ -1,0 +1,31 @@
+First scenario to test (I'll try to build a tree here) :
+
+
+
+                                          Entry: My King, the strees are filled with anarchy, you must flee.
+                                          Character: any close to the king
+                                          Background: Castle like, day
+                                          Options:(Run to the forest, Take a boat)
+                                          |                                   |
+                                          |                                   |
+  Entry: Oh! Fallen King...I can grant you any wish?                      Entry: King, in which direction should we set sail?                                                                                                                     
+  Character: Witch                                                        Character: (Fisherman or Sailor)                                               
+  Background: Black forest, night                                         Background: Sea, day
+  Options:(Make me King again, Make those anarcists disappear)            Options:(Go South, Go North)
+  |                                                         |             |                           |                   
+  |                                                         |             |                           |
+  Ending 1: You are King again but the witch              Ending 2: You take your throne again but the next
+  tricked you. You now govern rats and mice.              day there is no wandering soul in your kingdom.       
+  At least you spend the rest of your days                You are left to govern nothing but air as you  
+  making your little underlings steal cheese              hear the enemy armies approaching. 
+  for you.                                                                |                           |
+                                                                          |                           |
+                                                 _________________________]                           |
+               Ending 3: The little boat ends up in icy                          Ending 4: By accident, you discover some islands.
+               coasts. The penguins consider you as their                        You become a dangeorus pirate tormenting the
+               new King. But quickly, your new reign falls                       the seas. 
+               to corruption. You are poisoned with fish. 
+               
+               
+               
+    

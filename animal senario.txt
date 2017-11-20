@@ -1,0 +1,91 @@
+Animal senario for Doggo,wolf,doge
+
+stats
+Leadership
+Food Supplies
+Territory(morale)
+Stamina
+
+Danger alert bar- the opposing race will take action towards you
+
+human-
+elf-
+
+
+regular senarios(RS)
+
+RS1.Your dog companion wants to go hunting...
+
+background: Forest 
+Rain-Leadership must be above 60%, more leadership bonus
+Snow-Leadership must be above 70%, more leadership bonus
+Drought- Food supplies gained is reduced
+Fires- Food supplies gained is reduced
+Night- Leadership must be above 55%
+Daytime- more food gained
+
+RS1.response
+yes- Leadership+ stamnia- 
+no- Food supplies- stamina+ 
+
+RS1.respose (YES)
+background: Forest 
+
+You see some targets to hunt, Who will you go after?
+(Swipe left,right,up,down)
+left:rabbits(100% sucess rate)
+right:deer(70% success rate, can increase to 100% if leader ship is high enough) 
+up:human(50%, can increase to 100% if leadership is high enough)
+down:bear(50% success rate, can increase to 100% if leadership is high enough)
+
+RS1.respose (YES) left:rabbits
+Success- increase food supplies slighly, increase territory slightly
+"You slowly approach the rabbits and unleash your fangs in an instant"
+fail - not possible
+
+RS1.respose (YES) right:deer
+Success - increase food supplies, increase territory
+"You follow the deer with your ninja like stealth and unleash an ambush"
+fail - decrease leadership, decrease territory
+"The Deer noticed you and charges your way, It sent you and your companions flying"
+
+RS1.respose (YES) up:human
+Success- increase food supplies slightly, increase Territory greatly, increase danger alert bar for humans greatly
+"You pretend to be hurt while your friends surround the perimeter, the humans approach you thinking it was 
+free food while your companions launched a suprise attack targeting thier blind spots."
+fail- Decreease leadership greatly, decrease territory greatly, decrease stamina greatly, increase danger bar for human slightly
+"Despite your aggressive frontal assult, the humans attack back with weapons. 
+Your companions didnt stand a chance. You are forced to retreat."
+--------------------------
+RS1.respose (YES)
+background: city
+(Swipe left,right,up,down)
+left:squrrials (90% sucess rate, can increase to 100%)
+right:pigeons(70% success rate, can increase to 100% if leader ship is high enough) 
+up:regular human(50%, can increase to 100% if leadership is high enough)
+down:city patrol hunters(10% success rate, can increase to 50% if leadership is high enough)
+
+RS1.respose (YES) left:squrrials
+Success- increase food supplies, increase territory
+"Your gang threw nuts in a dark alley while hiding in the shadows. 
+The squrrials swarmed the dark alley but it was thier last snack."
+fail- Decrease in leadership, decrease in territory
+"The squrrials were too fast for you to catch up, they climbs on neary trees while throwing rocks at you.
+Retreat is not an option, its a must."
+
+RS1.respose (YES) right:pigeons
+Success- increase food supplies, increase territory
+"Your stealth is flawless. You unleashed your fangs at lightning speeds. The pigeons had no time to react."
+fail- Decrease in leadership, decrease in territory
+"The pigeons have noticed your presence. They flew above you and drop a bomb. You decided to retreat and clean up."
+
+RS1.respose (YES) up:regular human
+Success- increase food supplies, increase territory, increase danger alert bar for humans
+"you and your companions are camping in a narrow alley. Any human being that walks through here were ambushed
+by a pincer attack followed by a swift finish to their necks by your sharp fangs."
+
+RS1.respose (YES) down:city patrol hunters
+success- increase food supplies, increase territory, increase danger alert bar greatly for humans
+"You have always fears these hunters but today you and your companions fought back with sharp knives and spike"
+fail- decrease in everything greatly
+"You decide to ambush the patrol guards, but they were heavily armed and your pack didnt stance a chance. Better retreat quick before your death is inevitable." 
